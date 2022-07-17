@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url("./assets/images/joker.jpg");
+  background-image: url(".assets/images/avengers.jpg");
   background-size: cover;
   height: 100vh;
   font-family: 'Lato', sans-serif;

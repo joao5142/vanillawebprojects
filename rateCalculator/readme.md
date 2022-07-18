@@ -1,5 +1,5 @@
 <h1>Exchange Rate Calculator</h1>
-<h4>Projeto que converte moedas</h4>
+<h4>Projeto conversor de moedas</h4>
 <h2>Tecnologias utilizadas</h2>
 <div style="display: inline_block">
   <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

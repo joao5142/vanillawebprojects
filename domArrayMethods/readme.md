@@ -7,4 +7,4 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 <img margin-bottom="20px" src="assets/images/readme.PNG"">
-<h4  style="display: inline_block">Visualização do site :</h4><a style="display: inline_block" target="blank" href="https://joao5142.github.io/vanillawebprojects/rateCalculator/">Preview no Github Pages</a>
+<h4  style="display: inline_block">Visualização do site :</h4><a style="display: inline_block" target="blank" href="https://joao5142.github.io/vanillawebprojects/domArrayMethods/">Preview no Github Pages</a>
